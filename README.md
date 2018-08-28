@@ -6,7 +6,7 @@ Functioning: At start-up you will be prompted with a menu. Your current choice i
 
 Note: Due to the limited amount of computation of the microcontroller, the AI is also limited to a low difficulty
 
-Layout is visible when launching the program in proteus however I will include a screenshot of it
+Layout is visible when launching the program in proteus however I will include a screenshot of it: "Layout.jpg"
 
 Component list:
 
