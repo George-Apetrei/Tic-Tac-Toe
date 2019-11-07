@@ -25,3 +25,5 @@ Component list:
 3   NPN transistors
 
 3   Buttons
+
+![github-small](https://github.com/George-Apetrei/Tic-Tac-Toe-on-microcontroller/blob/master/X%20si%200/Layout.jpg)
